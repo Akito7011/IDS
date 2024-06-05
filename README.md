@@ -1,6 +1,10 @@
 # Intrusion Detection System (IDS)
 
 This project is an Intrusion Detection System (IDS) that captures and analyzes network packets to detect suspicious activities. It uses various techniques to identify anomalies, log them, and report them to a remote server.
+## Technological Stack
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/wireshark%20-%2314354C.svg?&style=for-the-badge&logo=wireshark&logoColor=blue"/>
+
+
 
 
 ## Table of Contents
