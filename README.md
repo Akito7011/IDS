@@ -16,6 +16,9 @@ This project is an Intrusion Detection System (IDS) that captures and analyzes n
 ## Test Overview
 
 For testing purposes, I have used the canary token to generate a test URL generating requests
+### sample data generated in log-file
+![image](https://github.com/Akito7011/IDS/assets/70007965/99674cab-993e-4f94-8555-76e7b49c3c59)
+
 
 ## Installation
 
