@@ -4,15 +4,16 @@ This project is an Intrusion Detection System (IDS) that captures and analyzes n
 
 
 ## Table of Contents
-- [Test-Settings Overview](#test-settings)
+- [Test Overview](#testcase)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [File Descriptions](#file-descriptions)
 - [License](#license)
-- [Work in Progress](#Future-Work)
+- [Work in Progress](#FutureWork)
+- [Contact Me](#contact-me)
 
-## Test-Settings Overview
+## Test Overview
 
 For testing purposes, I have used the canary token to generate a test URL generating requests
 
@@ -86,10 +87,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Work in Progress
 
-Sure, here's an updated version of the "Work in Progress" table with emojis to indicate the status:
-
-## Work in Progress
-
 | Feature/Task                             | Status       | Description                                                                 |
 |------------------------------------------|--------------|-----------------------------------------------------------------------------|
 | CSV import for suspicious IPs and ports  | 🛠️           | Allow importing suspicious IPs and ports from a CSV file.                   |
@@ -112,7 +109,7 @@ Feel free to contribute to this project by opening issues or submitting pull req
 If you have any questions, or suggestions, or just want to connect, feel free to reach out to me through the following channels:
 
 ## 📧 Email
-[![Email](https://img.shields.io/badge/Email-mailto%3Aexample%40domain.com-blue?logo=gmail&logoColor=white)](mailto:tanishqtanwar1976@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mailto%3Atanishqtanwar1976%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:tanishqtanwar1976@gmail.com)
 
 ## 💼 LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-tanwar)
