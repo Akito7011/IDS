@@ -97,7 +97,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 | Feature/Task                             | Status       | Description                                                                 |
 |------------------------------------------|--------------|-----------------------------------------------------------------------------|
 | CSV import for suspicious IPs and ports  | 🛠️           | Allow importing suspicious IPs and ports from a CSV file.                   |
-| Scaling the Project using docker and     | 🚧           | Implement unit tests for core functionalities.                              |
+| Scaling the Project using docker and     | 🚧           | Trying to figure how to do it. Currently tried docker with kafka.. failed succesfully                              |
 | Real-time dashboard                      | 🚀           | Develop a real-time dashboard for monitoring detected activities.           |
 
 ### Legend
